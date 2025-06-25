@@ -1,0 +1,25 @@
+App um Partner für Sportarten zu finden.
+Einzelpersonen sowie Vereine können "offene Slots" anlegen wenn sie jemanden zum mitspielen brauchen
+
+Vorgang:
+	1.) User A installiert die App
+	2.) User A meldet sich in der App mittels Username(Anzeigenname), email und passwort an. (Eventuell auch FB, Google, Apple,...)
+	3.) A kann angeben in welche Sportarten er interessiert ist und wie sein Level auf einzelnen Sportarten ist
+		3.1) Tennis, Anfänger
+		3.2) Tischtennis, Fortgeschritten
+		3.3) Fußball, Wiedereinsteiger
+		....
+	4.) A kann angeben innerhalb welchen Radius er Anfragen sehen will
+		4.1) 8010, 25km
+		4.2) 9020, 45km
+		....
+	5.) A bekommt benachrichtigung, dass etwas verfügbar ist
+		5.1) A kann den Slot ansehen, anfragen und optional mit dem erstellen chatten
+	6.) A kann optional einen eigenen "Slot" eröffnen
+		6.1) Tennis, Datum/Uhrzeit, Ort, Anzahl benötigte Spieler, Kosten
+		6.2) Freigabe des Slots
+	
+
+
+* Future
+	- Sportstätten (Tennishallen, etc.) können offene Zeiten anlegen die so gebucht werden können)
